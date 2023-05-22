@@ -1,7 +1,7 @@
 # Rock-Paper-Scissor
 
-Stein schlägt Schere
-Papier schlägt Stein
+Stein schlägt Schere -- 
+Papier schlägt Stein -- 
 Schere schlägt Papier
 
 Über den Input gibt man entweder Schere, Stein oder Papier ein.
