@@ -8,3 +8,4 @@ Schere schlägt Papier
 Man spielt über 5 Runden gegen den Computer.
 In der Konsole (F12) sieht man den Punktestand des Spielers, des Computers und wie viele Unentschieden es gegeben hat.
 
+https://vwalln99.github.io/Rock-Paper-Scissor/
